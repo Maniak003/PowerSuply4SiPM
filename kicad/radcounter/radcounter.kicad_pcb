@@ -2633,7 +2633,7 @@
 				)
 			)
 		)
-		(property "Value" "82k"
+		(property "Value" "240k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "ce7b3d1f-4e33-4a13-a7e6-a4f75ec026f6")
@@ -3494,7 +3494,7 @@
 				)
 			)
 		)
-		(property "Value" "10M"
+		(property "Value" "30M"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "ded2a0c2-4e32-4528-b960-cd73ceaf5422")
@@ -6477,16 +6477,16 @@
 	)
 	(via
 		(at 120.43 52.815)
-		(size 0.6)
-		(drill 0.2)
+		(size 0.3)
+		(drill 0.1)
 		(layers "F.Cu" "B.Cu")
 		(net 0)
 		(uuid "15a89ce4-f5ea-4ac9-944a-f403487c984c")
 	)
 	(via
 		(at 107.84 43.405)
-		(size 0.6)
-		(drill 0.2)
+		(size 0.3)
+		(drill 0.1)
 		(layers "F.Cu" "B.Cu")
 		(net 0)
 		(uuid "3555cf75-81f9-40a8-b867-53716fa71ac6")
