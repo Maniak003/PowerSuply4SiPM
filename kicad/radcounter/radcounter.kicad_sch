@@ -2750,7 +2750,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10M"
+		(property "Value" "30M"
 			(at 164.084 99.822 0)
 			(effects
 				(font
@@ -5157,7 +5157,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "82k"
+		(property "Value" "240k"
 			(at 164.084 107.442 0)
 			(effects
 				(font
